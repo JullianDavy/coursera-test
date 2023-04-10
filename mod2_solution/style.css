@@ -50,7 +50,8 @@ p {
     position: relative;
     margin-left: 1%;
     margin-right: 1%;
-    margin-bottom: 1%;
+    margin-top: 0px;
+    margin-bottom: 2%;
 
   }
 
@@ -110,7 +111,8 @@ p {
     position: relative;
     margin-left: 1%;
     margin-right: 1%;
-    margin-bottom: 1%;
+    margin-top: 0px;
+    margin-bottom: 2%;
   }
     h2{
     border: 1px solid black;
@@ -169,7 +171,8 @@ p {
     position: relative;
     margin-left: 1%;
     margin-right: 1%;
-    margin-bottom: 1%;
+    margin-top: 0px;
+    margin-bottom: 2%;
   }
     h2{
     border: 1px solid black;
