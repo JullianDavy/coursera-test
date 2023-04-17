@@ -1,0 +1,83 @@
+*{
+box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif, 'Helvetica', sans-serif;
+}
+
+body{
+	background-color: #C9BFBC;
+}
+
+#header-nav{
+	background-color: #C25119;
+	border: 0;
+	border-radius 0;
+}
+
+.navbar-header a.navbar-brand { /* Restaurant name */
+  color: #ffffff;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  font-size: 1.8em;
+
+}
+
+ .nav > li{
+background-color: #B81853; 
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #EDEDED;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #ffffff;
+}
+
+.nav hr{
+	width:100%;
+	text-align:left;
+	margin-left:0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-collapse > ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+#sec-1 > div{
+	background-color: #B27990;
+	color: #EDEDED;
+}
+#row-1 p{
+padding-left: 10px;
+padding-right: 10px;
+line-height: 2;
+}
+
+.menu-head{
+	font-size: 1.2em;
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	padding-bottom: 0;
+}
+
+h3.text-center{
+	color: #ffffff;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #cec8cb;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #b7b6b6;
+    background-color: transparent;
+}
